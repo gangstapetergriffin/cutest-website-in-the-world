@@ -1,0 +1,26 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.images{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    border: 10px solid blue;
+    border-radius: 5px;
+}
+
+.imagesyes{
+    width: 512px;
+    height: 512px;
+}
+
+#cutecat{
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+    background-color: blue;
+    text-align: center;
+    border-radius: 5px;
+}
