@@ -2,3 +2,99 @@ body{
     background-color: red;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#naviheader{
+    background-color: aqua; 
+    border-radius: 5px;
+}
+
+.navibuttons{
+    margin: 5px 5px 5px 5px; 
+    padding: 10px 10px 10px 10px; 
+    background-color: darkorange; 
+    border-radius: 5px;
+}
+
+#paragraphbox{
+    width: 691px;
+    height: 221px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(180, 0, 0);
+    border-radius: 5px;
+}
+
+#name{
+    width: 332px; 
+    color: black; 
+    font-size: 42px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
+#paragraph{
+    width: 691px; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+#img{
+    width: 705px; 
+    height: 705px; 
+    margin: 10px 10px 10px 10px;
+
+}
+
+#hobbiesbox{
+    width: 191px; 
+    height: 122px; 
+    background-color: rgb(180, 0, 0); 
+    border-radius: 5px;
+    float: right;
+}
+
+#hobbieshead{
+    color: black; 
+    font-size: 28px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word
+}
+
+#hobbiestext{
+    color: black; 
+    font-size: 18px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+
+#imgs{
+    width: 453px; 
+    height: 268px; 
+    float: right;
+}
+
+#kool{
+    width: 560px; 
+    height: 165px; 
+    background-color: #D9D9D9; 
+    border-radius: 5px;
+    margin: 15px 15px;
+}
+
+.socials{
+    width: 142px; 
+    height: 131px; 
+    margin: 15px 20px;
+}
+
+#gifcat{
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin: 40px auto;
+}
